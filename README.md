@@ -1,7 +1,3 @@
-# Angular
-Housing Location List project
-
-
 
 ***Angular***
 - Provides structure + consistency
